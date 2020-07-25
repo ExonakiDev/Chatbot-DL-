@@ -1,2 +1,2 @@
 # Chatbot-DL-
-deep learning chat using tensorflow tflearn
+deep learning chatbot using tensorflow tflearn
